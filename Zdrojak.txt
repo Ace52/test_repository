@@ -5,6 +5,7 @@ Tri
 Tri a pol
 Styri
 Pat
+ZTTTUI
 Nezmysel
 Sest
 Sedem
